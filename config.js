@@ -1,4 +1,4 @@
- const config={
+window.config={
     // 后端网址配置
     hosturl:"https://xxxx.xx/",
    title:"xx-加速器",
@@ -73,4 +73,3 @@
          }
      ]
 }
-export default config
