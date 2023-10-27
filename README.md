@@ -1,6 +1,6 @@
 # V2b-Theme-Sleek
 
-v2b前后端分离主题 Sleek
+# v2b前后端分离主题 Sleek
 
 > 前后端分离主题 可搭建多个前端应用 <br>
 > 提交的需求尽量满足 不定期维护更新
@@ -25,4 +25,3 @@ v2b前后端分离主题 Sleek
 ![](/image/3.png)
 ![](/image/4.png)
 ![](/image/5.png)
-
