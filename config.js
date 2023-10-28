@@ -1,6 +1,6 @@
 window.config={
     // 后端网址配置
-    hosturl:"https://xxxx.xx/",
+    hosturl:"https://rich888.cc/",
    title:"xx-加速器",
    title1:"通过使用我们强大的VPN服务，你将享受到全方位的在线保护和隐私安全，畅行无阻地访问全球内容，尽情探索互联网的无限可能。",
      
