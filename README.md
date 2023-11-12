@@ -21,6 +21,12 @@
     > 前端配置部分都在config.js 文件里
     - 修改config.js的hosturl 填写后端网址 `https://xxxx.xx/` 格式
     - 在线客服请到index.html里插入代码
+    - 网页标题和svg都在index.html 自行更改 有能力的可自行混淆config.js 文件
+
+### 注意事项
+> - v2b后台的邀请限制不要为0 不然会报错 
+> - 用https 不然某些功能用不了 
+> - 注意cors策略!!
 
 
 ### 产品演示(部分)
