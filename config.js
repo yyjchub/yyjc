@@ -1,6 +1,6 @@
 window.config={
     // 后端网址配置
-    hosturl:"https://xxxx.com/",
+    hosturl:"https://98kjc.com/",
     title:"xx-加速器",
     title1:"快速高效与世界连接",
     title2:"快速,可靠,信赖",
