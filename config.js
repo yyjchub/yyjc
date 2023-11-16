@@ -1,7 +1,5 @@
 window.config={
-
-    //主题默认颜色
-    theme:true,
+    theme:true,//主题默认颜色
 
     // 后端网址配置
     hosturl:"https://xxxx.com/",
