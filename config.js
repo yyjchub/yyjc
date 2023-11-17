@@ -1,8 +1,9 @@
 window.config={
-    theme:true,//主题默认颜色
-
+    // 主题默认颜色
+    theme:true,
+    
     // 后端网址配置
-    hosturl:"https://xxxx.com/",
+    hosturl:"https://xxxxxxx.com/",
     title:"xx-加速器",
     title1:"快速高效与世界连接",
     title2:"快速,可靠,信赖",
