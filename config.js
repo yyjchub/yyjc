@@ -1,8 +1,8 @@
 window.settings = {
     // API
-    api: "https://v2b.haruka.cloud",
+    api: "https://biquge.live",
     // 站点名称
-    title: 'Demo App',
+    title: '养鸡场加速器',
     // 站点描述
     description: '连接全世界',
     // 站点介绍 
