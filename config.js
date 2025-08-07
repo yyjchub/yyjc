@@ -1,6 +1,6 @@
 window.settings = {
     // API
-    api: "https://biquge.live",
+    api: "https://biquge.live/",
     // 站点名称
     title: '养鸡场加速器',
     // 站点描述
