@@ -2,7 +2,7 @@ window.settings = {
     // API
     api: "https://biquge.live/",
     // 站点名称
-    title: '养鸡场加速器',
+    title: '养鸡场',
     // 站点描述
     description: '连接全世界',
     // 站点介绍 
