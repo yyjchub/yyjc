@@ -72,7 +72,7 @@ window.config={
     taocan:[
         {
             title:"基础套餐",
-            money:10,
+            money:1,
             cent:["支持Chatpt访问","支持Netflix，台湾哔哩哔哩等流媒体","巅峰1000/MS"]
         }
     ]
